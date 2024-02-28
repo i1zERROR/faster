@@ -1,0 +1,15 @@
+{
+  "delayfast" : {
+  "status": true,
+  "channel" : {
+    "id" : "1211480019252289598"
+  },
+  "delay" : "random"
+  },
+  "reply2fast" : true,
+    "autoreply" : [
+      {"message" : "سلام عليكم", "reply" : "وعليكم السلام ورحمة الله وبركاته"},
+      {"message" : "هلا", "reply" : "هلا نورت"}
+    ]
+
+}
