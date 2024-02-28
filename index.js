@@ -19,7 +19,7 @@ fetch("https://my-bot-1.agttresssdc.repl.co");
 },60000)
 
 require("./ex");
-  let tokens = ['MTE5NjYxNzU3MjQ0ODIxNTEyMQ.GCzR2F.2IXOF61R4EQkBsVsAKQaUwhnzzUGWfNiysiQoc'];
+  let tokens = [''];
   tokens.forEach(token=>{
 const client = new Discord.Client({
     allowedMentions: {
